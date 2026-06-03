@@ -1,4 +1,7 @@
 # Ejercicio Torneo de Tenis en C++
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-CServinL-ea4aaa?logo=github)](https://github.com/sponsors/CServinL)
+
 ### Método del círculo (round-robin)
 Este algoritmo genera una planificación justa para torneos donde cada jugador debe enfrentar a todos los demás una sola vez, con un partido por día y como máximo un día de descanso.
 
